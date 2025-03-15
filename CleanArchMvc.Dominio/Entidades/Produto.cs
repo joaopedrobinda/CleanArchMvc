@@ -46,18 +46,16 @@ namespace CleanArchMvc.Dominio.Entidades
             ValidadorExcecaoDominio.Onde(descricao.Length < 5, "Descrição inválida, muito curto, mínimo de 5 caracteres");
             ValidadorExcecaoDominio.Onde(preco < 0, "Preço inválido");
             ValidadorExcecaoDominio.Onde(estoque < 0, "Estoque inválido");
-            ValidadorExcecaoDominio.Onde(Imagem.Length > 250, "Nome da imagem inválida, muito grande, máximo de 250 caracteres");
+            ValidadorExcecaoDominio.Onde(imagem.Length > 250, "Nome da imagem inválida, muito grande, máximo de 250 caracteres");
 
             Nome = nome;
             Descricao = descricao;
             Preco = preco;
             Estoque = estoque;
             Imagem = imagem;
-
         }
 
-
-
+         
         public int CategoriaId { get; set; }
         public Categoria Categoria { get; set; }
     }
