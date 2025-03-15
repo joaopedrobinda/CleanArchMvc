@@ -6,6 +6,7 @@ namespace CleanArchMvc.Dominio.Testes
         public void CrearCategoria_ComParametroValido_EstadoValidoObjetoResultado()
         {
 
+            
         }
     }
 }
