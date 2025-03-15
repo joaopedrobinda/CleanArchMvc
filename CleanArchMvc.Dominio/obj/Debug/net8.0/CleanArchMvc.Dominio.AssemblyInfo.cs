@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanArchMvc.Dominio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17e9237cb71ba2108d86abc5bfc4aa54b58722b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2f572cd3fd20ab595040df01cddb45b0fa920ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanArchMvc.Dominio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanArchMvc.Dominio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
