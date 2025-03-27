@@ -26,7 +26,7 @@ namespace CleanArchMvc.Dominio.Entidades
 
         public Produto(int id, string nome, string descricao, decimal preco, int estoque, string Imagem)
         {
-            ValidadorExcecaoDominio.Onde(id < 0, "Id inválido");
+            ValidadorExcecaoDominio.Onde(id < 0, "Valor do Id invalido.");
             Id = id;
             ValidadorDominio(nome, descricao, preco, estoque, Imagem);
         }
@@ -41,12 +41,12 @@ namespace CleanArchMvc.Dominio.Entidades
         private void ValidadorDominio(string nome, string descricao, decimal preco, int estoque, string imagem)
         {
             ValidadorExcecaoDominio.Onde(string.IsNullOrEmpty(nome), "Nome invalido, nome é requerido");
-            ValidadorExcecaoDominio.Onde(nome.Length < 3, "Nome invalido, mínimo de 3 caracteres");
+            ValidadorExcecaoDominio.Onde(nome.Length < 3, "Nome invalido, muito curto, mínimo de 3 caracteres");
             ValidadorExcecaoDominio.Onde(string.IsNullOrEmpty(descricao), "Descrição inválida, descrição requerida");
             ValidadorExcecaoDominio.Onde(descricao.Length < 5, "Descrição inválida, muito curto, mínimo de 5 caracteres");
             ValidadorExcecaoDominio.Onde(preco < 0, "Preço inválido");
-            ValidadorExcecaoDominio.Onde(estoque < 0, "Estoque inválido");
-            ValidadorExcecaoDominio.Onde(imagem.Length > 250, "Nome da imagem inválida, muito grande, máximo de 250 caracteres");
+            ValidadorExcecaoDominio.Onde(estoque < 0, "Valor de estoque invalido");
+            ValidadorExcecaoDominio.Onde(imagem?.Length > 250, "Nome da imagem inválido, muito grande, máximo de 250 caracteres");
 
             Nome = nome;
             Descricao = descricao;

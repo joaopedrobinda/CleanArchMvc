@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\REPOS\\CleanArchMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E82B86A-F1C7-4C7C-8DB1-709ACF7C8376}|CleanArchMvc.Dominio.Testes\\CleanArchMvc.Dominio.Testes.csproj|c:\\repos\\cleanarchmvc\\cleanarchmvc.dominio.testes\\categoriaunittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E82B86A-F1C7-4C7C-8DB1-709ACF7C8376}|CleanArchMvc.Dominio.Testes\\CleanArchMvc.Dominio.Testes.csproj|solutionrelative:cleanarchmvc.dominio.testes\\categoriaunittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DB93428-7D82-47E8-8CA3-6B07E14E9978}|CleanArchMvc.Dominio\\CleanArchMvc.Dominio.csproj|c:\\repos\\cleanarchmvc\\cleanarchmvc.dominio\\interfaces\\icategoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DB93428-7D82-47E8-8CA3-6B07E14E9978}|CleanArchMvc.Dominio\\CleanArchMvc.Dominio.csproj|solutionrelative:cleanarchmvc.dominio\\interfaces\\icategoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DB93428-7D82-47E8-8CA3-6B07E14E9978}|CleanArchMvc.Dominio\\CleanArchMvc.Dominio.csproj|c:\\repos\\cleanarchmvc\\cleanarchmvc.dominio\\interfaces\\iprodutorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DB93428-7D82-47E8-8CA3-6B07E14E9978}|CleanArchMvc.Dominio\\CleanArchMvc.Dominio.csproj|solutionrelative:cleanarchmvc.dominio\\interfaces\\iprodutorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E82B86A-F1C7-4C7C-8DB1-709ACF7C8376}|CleanArchMvc.Dominio.Testes\\CleanArchMvc.Dominio.Testes.csproj|c:\\repos\\cleanarchmvc\\cleanarchmvc.dominio.testes\\produtounittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E82B86A-F1C7-4C7C-8DB1-709ACF7C8376}|CleanArchMvc.Dominio.Testes\\CleanArchMvc.Dominio.Testes.csproj|solutionrelative:cleanarchmvc.dominio.testes\\produtounittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DB93428-7D82-47E8-8CA3-6B07E14E9978}|CleanArchMvc.Dominio\\CleanArchMvc.Dominio.csproj|c:\\repos\\cleanarchmvc\\cleanarchmvc.dominio\\entidades\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +15,8 @@
       "RelativeMoniker": "D:0:0:{9DB93428-7D82-47E8-8CA3-6B07E14E9978}|CleanArchMvc.Dominio\\CleanArchMvc.Dominio.csproj|solutionrelative:cleanarchmvc.dominio\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DB93428-7D82-47E8-8CA3-6B07E14E9978}|CleanArchMvc.Dominio\\CleanArchMvc.Dominio.csproj|c:\\repos\\cleanarchmvc\\cleanarchmvc.dominio\\entidades\\entidadebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DB93428-7D82-47E8-8CA3-6B07E14E9978}|CleanArchMvc.Dominio\\CleanArchMvc.Dominio.csproj|solutionrelative:cleanarchmvc.dominio\\entidades\\entidadebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DB93428-7D82-47E8-8CA3-6B07E14E9978}|CleanArchMvc.Dominio\\CleanArchMvc.Dominio.csproj|c:\\repos\\cleanarchmvc\\cleanarchmvc.dominio\\validador\\validadorexcecaodominio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DB93428-7D82-47E8-8CA3-6B07E14E9978}|CleanArchMvc.Dominio\\CleanArchMvc.Dominio.csproj|solutionrelative:cleanarchmvc.dominio\\validador\\validadorexcecaodominio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E82B86A-F1C7-4C7C-8DB1-709ACF7C8376}|CleanArchMvc.Dominio.Testes\\CleanArchMvc.Dominio.Testes.csproj|c:\\repos\\cleanarchmvc\\cleanarchmvc.dominio.testes\\categoriaunittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E82B86A-F1C7-4C7C-8DB1-709ACF7C8376}|CleanArchMvc.Dominio.Testes\\CleanArchMvc.Dominio.Testes.csproj|solutionrelative:cleanarchmvc.dominio.testes\\categoriaunittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoriaUnitTest1.cs",
-              "DocumentMoniker": "C:\\REPOS\\CleanArchMvc\\CleanArchMvc.Dominio.Testes\\CategoriaUnitTest1.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.Dominio.Testes\\CategoriaUnitTest1.cs",
-              "ToolTip": "C:\\REPOS\\CleanArchMvc\\CleanArchMvc.Dominio.Testes\\CategoriaUnitTest1.cs",
-              "RelativeToolTip": "CleanArchMvc.Dominio.Testes\\CategoriaUnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T05:20:07.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IProdutoRepositorio.cs",
-              "DocumentMoniker": "C:\\REPOS\\CleanArchMvc\\CleanArchMvc.Dominio\\Interfaces\\IProdutoRepositorio.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.Dominio\\Interfaces\\IProdutoRepositorio.cs",
-              "ToolTip": "C:\\REPOS\\CleanArchMvc\\CleanArchMvc.Dominio\\Interfaces\\IProdutoRepositorio.cs",
-              "RelativeToolTip": "CleanArchMvc.Dominio\\Interfaces\\IProdutoRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T04:28:02.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ICategoriaRepositorio.cs",
-              "DocumentMoniker": "C:\\REPOS\\CleanArchMvc\\CleanArchMvc.Dominio\\Interfaces\\ICategoriaRepositorio.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.Dominio\\Interfaces\\ICategoriaRepositorio.cs",
-              "ToolTip": "C:\\REPOS\\CleanArchMvc\\CleanArchMvc.Dominio\\Interfaces\\ICategoriaRepositorio.cs",
-              "RelativeToolTip": "CleanArchMvc.Dominio\\Interfaces\\ICategoriaRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T04:27:39.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EntidadeBase.cs",
-              "DocumentMoniker": "C:\\REPOS\\CleanArchMvc\\CleanArchMvc.Dominio\\Entidades\\EntidadeBase.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.Dominio\\Entidades\\EntidadeBase.cs",
-              "ToolTip": "C:\\REPOS\\CleanArchMvc\\CleanArchMvc.Dominio\\Entidades\\EntidadeBase.cs",
-              "RelativeToolTip": "CleanArchMvc.Dominio\\Entidades\\EntidadeBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T03:36:04.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ValidadorExcecaoDominio.cs",
-              "DocumentMoniker": "C:\\REPOS\\CleanArchMvc\\CleanArchMvc.Dominio\\Validador\\ValidadorExcecaoDominio.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.Dominio\\Validador\\ValidadorExcecaoDominio.cs",
-              "ToolTip": "C:\\REPOS\\CleanArchMvc\\CleanArchMvc.Dominio\\Validador\\ValidadorExcecaoDominio.cs",
-              "RelativeToolTip": "CleanArchMvc.Dominio\\Validador\\ValidadorExcecaoDominio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T03:05:32.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\REPOS\\CleanArchMvc\\CleanArchMvc.Dominio\\Entidades\\Produto.cs",
-              "RelativeDocumentMoniker": "CleanArchMvc.Dominio\\Entidades\\Produto.cs",
-              "ToolTip": "C:\\REPOS\\CleanArchMvc\\CleanArchMvc.Dominio\\Entidades\\Produto.cs",
-              "RelativeToolTip": "CleanArchMvc.Dominio\\Entidades\\Produto.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA0wB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T01:09:29.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\REPOS\\CleanArchMvc\\CleanArchMvc.Dominio\\Entidades\\Categoria.cs",
               "RelativeDocumentMoniker": "CleanArchMvc.Dominio\\Entidades\\Categoria.cs",
               "ToolTip": "C:\\REPOS\\CleanArchMvc\\CleanArchMvc.Dominio\\Entidades\\Categoria.cs",
               "RelativeToolTip": "CleanArchMvc.Dominio\\Entidades\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T01:09:11.722Z",
+              "WhenOpened": "2025-03-27T22:29:11.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriaUnitTest1.cs",
+              "DocumentMoniker": "C:\\REPOS\\CleanArchMvc\\CleanArchMvc.Dominio.Testes\\CategoriaUnitTest1.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Dominio.Testes\\CategoriaUnitTest1.cs",
+              "ToolTip": "C:\\REPOS\\CleanArchMvc\\CleanArchMvc.Dominio.Testes\\CategoriaUnitTest1.cs",
+              "RelativeToolTip": "CleanArchMvc.Dominio.Testes\\CategoriaUnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T22:29:06.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoUnitTest1.cs",
+              "DocumentMoniker": "C:\\REPOS\\CleanArchMvc\\CleanArchMvc.Dominio.Testes\\ProdutoUnitTest1.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Dominio.Testes\\ProdutoUnitTest1.cs",
+              "ToolTip": "C:\\REPOS\\CleanArchMvc\\CleanArchMvc.Dominio.Testes\\ProdutoUnitTest1.cs*",
+              "RelativeToolTip": "CleanArchMvc.Dominio.Testes\\ProdutoUnitTest1.cs*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T22:21:52.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\REPOS\\CleanArchMvc\\CleanArchMvc.Dominio\\Entidades\\Produto.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Dominio\\Entidades\\Produto.cs",
+              "ToolTip": "C:\\REPOS\\CleanArchMvc\\CleanArchMvc.Dominio\\Entidades\\Produto.cs*",
+              "RelativeToolTip": "CleanArchMvc.Dominio\\Entidades\\Produto.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAA8wDIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T22:21:49.827Z",
               "EditorCaption": ""
             }
           ]
