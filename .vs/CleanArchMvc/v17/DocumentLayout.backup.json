@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\REPOS\\CleanArchMvc\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB93428-7D82-47E8-8CA3-6B07E14E9978}|CleanArchMvc.Dominio\\CleanArchMvc.Dominio.csproj|c:\\repos\\cleanarchmvc\\cleanarchmvc.dominio\\entidades\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB93428-7D82-47E8-8CA3-6B07E14E9978}|CleanArchMvc.Dominio\\CleanArchMvc.Dominio.csproj|solutionrelative:cleanarchmvc.dominio\\entidades\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E82B86A-F1C7-4C7C-8DB1-709ACF7C8376}|CleanArchMvc.Dominio.Testes\\CleanArchMvc.Dominio.Testes.csproj|c:\\repos\\cleanarchmvc\\cleanarchmvc.dominio.testes\\produtounittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E82B86A-F1C7-4C7C-8DB1-709ACF7C8376}|CleanArchMvc.Dominio.Testes\\CleanArchMvc.Dominio.Testes.csproj|solutionrelative:cleanarchmvc.dominio.testes\\produtounittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoUnitTest1.cs",
+              "DocumentMoniker": "C:\\REPOS\\CleanArchMvc\\CleanArchMvc.Dominio.Testes\\ProdutoUnitTest1.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Dominio.Testes\\ProdutoUnitTest1.cs",
+              "ToolTip": "C:\\REPOS\\CleanArchMvc\\CleanArchMvc.Dominio.Testes\\ProdutoUnitTest1.cs*",
+              "RelativeToolTip": "CleanArchMvc.Dominio.Testes\\ProdutoUnitTest1.cs*",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwEoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T22:21:52.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\REPOS\\CleanArchMvc\\CleanArchMvc.Dominio\\Entidades\\Produto.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Dominio\\Entidades\\Produto.cs",
+              "ToolTip": "C:\\REPOS\\CleanArchMvc\\CleanArchMvc.Dominio\\Entidades\\Produto.cs*",
+              "RelativeToolTip": "CleanArchMvc.Dominio\\Entidades\\Produto.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwC8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T22:21:49.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

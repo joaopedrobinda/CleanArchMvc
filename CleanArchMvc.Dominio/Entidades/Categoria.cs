@@ -31,8 +31,8 @@ namespace CleanArchMvc.Dominio.Entidades
 
         private void ValidadorDominio (string nome)
         {
-            ValidadorExcecaoDominio.Onde(string.IsNullOrEmpty(nome), "Nome invalido, nome é requerido");
-            ValidadorExcecaoDominio.Onde(nome.Length < 3, "Nome invalido, mínimo de 3 caracteres");
+            ValidadorExcecaoDominio.Onde(string.IsNullOrEmpty(nome), "Nome invalido, nome requerido");
+            ValidadorExcecaoDominio.Onde(nome.Length < 3, "Nome invalido, muito curto, mínimo de 3 caracteres");
 
             Nome = nome;
         }
